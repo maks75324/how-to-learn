@@ -77,7 +77,7 @@
 
 .header__link {
   text-decoration: none;
-  color:  #2f80ed;
+  color: #2f80ed;
 }
 
 .description {
@@ -106,7 +106,7 @@
   min-width: 784px;
 }
 
-.two-columns__paragraph  {
+.two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -205,7 +205,7 @@
   position: absolute;
   right: 46px;
   top: 50%;
-  color:  #2f80ed;
+  color: #2f80ed;
 }
 .feynman__img {
   background-image: url("../images/feynman.png");
