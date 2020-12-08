@@ -222,6 +222,10 @@
   z-index: 1;
 }
 
+.section-title_theme_dark {
+  padding-top: 90px;
+}
+
 .table__cell_theme_dark {
   width: 200px;
   z-index: 2;
